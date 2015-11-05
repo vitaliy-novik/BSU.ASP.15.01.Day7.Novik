@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlarmClock", "AlarmClock\AlarmClock.csproj", "{D5137457-2800-47E6-B757-9E66D4163918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{52648A2A-06DC-43CD-BB60-8CF278717FA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YieldFibonacci", "YieldFibonacci\YieldFibonacci.csproj", "{7C6F27CB-328D-4DEE-86E5-C41A2EB00356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{A25C9BD1-4063-45EF-89F4-7F30D4B36D09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5137457-2800-47E6-B757-9E66D4163918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5137457-2800-47E6-B757-9E66D4163918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5137457-2800-47E6-B757-9E66D4163918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5137457-2800-47E6-B757-9E66D4163918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52648A2A-06DC-43CD-BB60-8CF278717FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52648A2A-06DC-43CD-BB60-8CF278717FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52648A2A-06DC-43CD-BB60-8CF278717FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52648A2A-06DC-43CD-BB60-8CF278717FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C6F27CB-328D-4DEE-86E5-C41A2EB00356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6F27CB-328D-4DEE-86E5-C41A2EB00356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6F27CB-328D-4DEE-86E5-C41A2EB00356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6F27CB-328D-4DEE-86E5-C41A2EB00356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A25C9BD1-4063-45EF-89F4-7F30D4B36D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A25C9BD1-4063-45EF-89F4-7F30D4B36D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A25C9BD1-4063-45EF-89F4-7F30D4B36D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A25C9BD1-4063-45EF-89F4-7F30D4B36D09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
